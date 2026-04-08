@@ -50,3 +50,4 @@ Full case studies and screenshots: [mzaeemkhan.com](https://mzaeemkhan.com)
 - GitHub: https://github.com/mzaeemkhan
 
 _Open to freelance engagements, fractional senior roles, and AI product work._
+
