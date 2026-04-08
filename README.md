@@ -19,8 +19,8 @@ Currently focused on **Agentic AI, RAG pipelines, MCP integration, and LangChain
 #### Selected work (40+ projects shipped)
 
 - **GrocerKey / Point Pickup Technologies** — White-label SaaS storefronts for US grocery retailers (Fareway, Kowalski's, Stew Leonard's). TypeScript, Aurelia, React, Azure SSO, Stripe, LaunchDarkly.
-- **WinRest POS** — Restaurant POS integrations with Uber Eats, Clover, Moneris, and Flyt for North American clients.
-- **Dialoct** — Lawyer-client communication platform built on Xamarin with Twilio VoIP.
+- **WinRest POS (Atrule)** — Restaurant POS integrations with Uber Eats, Clover, Moneris, and Flyt for North American clients.
+- **Dialoct (CLEVIATECH)** — Lawyer-client communication platform built on Xamarin with Twilio VoIP.
 - **Pepsi Cola Bottler** — Enterprise MIS for primary sales data, automated yearly closing, HR salary management.
 - **Atrule Technologies** — Led a team shipping 15+ Flutter and Android apps to the Play Store and App Store.
 
@@ -31,7 +31,7 @@ Full case studies and screenshots: [mzaeemkhan.com](https://mzaeemkhan.com)
 - **2023 – Present** · Freelance / Upwork · Full-Stack & AI Engineer
 - **2022 – 2023** · GrocerKey (Point Pickup Technologies) · Full Stack Developer
 - **2020 – 2022** · Atrule Technologies · Team Lead / Tech Lead
-- **2017 – 2020** · Senior Software Engineer
+- **2017 – 2020** · CLEVIATECH · Senior Software Engineer
 - **2014 – 2017** · Pepsi Cola Bottler · Senior Software Engineer
 - **2012 – 2014** · Green Fin Technologies · Junior Software Engineer
 
@@ -47,6 +47,5 @@ Full case studies and screenshots: [mzaeemkhan.com](https://mzaeemkhan.com)
 
 - Portfolio: https://mzaeemkhan.com
 - Upwork: https://www.upwork.com/freelancers/mzaeemkhan
-- GitHub: https://github.com/mzaeemkhan
 
 _Open to freelance engagements, fractional senior roles, and AI product work._
